@@ -12,9 +12,9 @@ ArtistListCompilation: Fetches artist list for artist list dictionary creation a
 
 CompiledEdgeLists: Used for compiling all the edgelists into a singular list
 
-\artistlists\ stores the artist lists, artist list is divided
+\artistlists\ stores the artist lists, artist lists are divided into separate lists for easier processing
 
-\edgelists\ stores the edge lists
+\edgelists\ stores the edge lists, edge lists are divided into separate lists for easier processing
 
 compiledEdgeList.csv edgelist of all our data
 
